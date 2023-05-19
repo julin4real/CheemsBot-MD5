@@ -14,30 +14,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['255684575094'] //ur owner number
-global.ownername = "🦄Unity-C.E.O" //ur owner name
-global.ytname = "Unity-Express" //ur yt chanel name
+global.vcardowner = ['19543371477'] //ur owner number
+global.ownername = "🦄JULIN4REAL" //ur owner name
+global.ytname = "Anitum" //ur yt chanel name
 global.socialm = "GitHub: Unity" //ur github or insta name
 global.location = "Tanzania" //ur location
 
 //bot bomdy 
-global.owner = ['255684575094'] //ur number
-global.ownernomer = "255684575094" //ur number
-global.ownertag = '255684575094' //ur tag number
-global.premium = ['255684575094'] //ur premium number
+global.owner = ['19543371477'] //ur number
+global.ownernomer = "19543371477" //ur number
+global.ownertag = '19543371477' //ur tag number
+global.premium = ['19543371477'] //ur premium number
 global.botname = 'Unity-Express RoseBot' //ur bot name
-global.ownername = "🦄Unity-Express"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://unity-express.com/" //ur website to be displayed
-global.botscript = 'https://github.com/emanyo-20/CheemsBot-MD5' //script link
+global.ownername = "🦄julin4real"
+global.linkz = "https://youtube.com/@Anitum" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@Anitum" //ur website to be displayed
+global.botscript = 'https://github.com' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Unity-Express Bot" //ur sticker watermark author
-global.wm = "Unity-Express Ltd." //ur watermark
+global.author = "julin4real Bot" //ur sticker watermark author
+global.wm = "julin4real Ltd." //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['#']
 global.sp = ''
 global.mess = {
     success: 'Done✓',
